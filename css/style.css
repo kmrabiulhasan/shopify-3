@@ -94,7 +94,8 @@ ol li a:hover{background-color:#fd54034a;
 	    box-sizing: border-box;
 	    padding: 0px 10px;
 	    margin: 0 12px;
-		border-radius: 20px;}
+	   border-radius: 20px;
+	   padding-bottom: 25px;}
 
 .product h1{
 			text-transform: capitalize;
